@@ -10,9 +10,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "homepage": "https://nishant-a-k-s.github.io/copy-n/"
+    "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://nishant-a-k-s.github.io/copy-n",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
